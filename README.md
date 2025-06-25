@@ -69,12 +69,29 @@ http://localhost/alumni-portal/
 | Student  | neha@gmail.com         | 123456    |
 
 
-
 ## 📁 Note
 This repository contains code only (no sensitive files or database dump). You can create your own DB using the structure.
 
+
+## 💡 What I Learned
+
+- Connecting PHP to MySQL using `mysqli`
+- Session management & secure login
+- Uploading files and storing in DB
+- Building responsive UIs with HTML/CSS
+- Real-time user interaction features
+- Using GitHub for version control and publishing projects
+
+## 🧠 Future Improvements
+
+- Admin analytics dashboard
+- AJAX-based real-time chat
+- Searchable alumni directory
+- File sharing in chat
+
+
 ## 👩‍💻 Developed By
-Nikita Dhondiram Mane – MCA Student  
+Nikita Dhondiram Mane – MCA Student 
 
 ## 📄 License
 
